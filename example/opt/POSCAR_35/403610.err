@@ -1,0 +1,143 @@
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014664E442C20  Unknown               Unknown  Unknown
+libc-2.28.so       000014664DDCC6BB  __sched_yield         Unknown  Unknown
+libmpi.so.12.0     000014664EB527F4  Unknown               Unknown  Unknown
+libmpi.so.12       000014664EB4CD6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       000014664EDE6A00  MPIR_Waitall_impl     Unknown  Unknown
+libmpi.so.12       000014664EC58F4B  MPIC_Waitall          Unknown  Unknown
+libmpi.so.12       000014664EB265ED  MPIR_Alltoall_int     Unknown  Unknown
+libmpi.so.12       000014664EB25A9A  MPIR_Alltoall         Unknown  Unknown
+libmpi.so.12       000014664EB25A38  MPIR_Alltoall_imp     Unknown  Unknown
+libmpi.so.12       000014664EB2529E  PMPI_Alltoall         Unknown  Unknown
+libmpifort.so.12.  000014664F2006C6  mpi_alltoall__        Unknown  Unknown
+vasp_std           0000000000412DF7  Unknown               Unknown  Unknown
+vasp_std           000000000058423A  Unknown               Unknown  Unknown
+vasp_std           0000000000E84618  Unknown               Unknown  Unknown
+vasp_std           0000000000EF8360  Unknown               Unknown  Unknown
+vasp_std           000000000161C771  Unknown               Unknown  Unknown
+vasp_std           00000000015F6996  Unknown               Unknown  Unknown
+vasp_std           000000000040758E  Unknown               Unknown  Unknown
+libc-2.28.so       000014664DD0C493  __libc_start_main     Unknown  Unknown
+vasp_std           00000000004074A9  Unknown               Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014C977316C20  Unknown               Unknown  Unknown
+libmpi.so.12.0     000014C977A26271  Unknown               Unknown  Unknown
+libmpi.so.12       000014C977A20D6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       000014C977CBAA00  MPIR_Waitall_impl     Unknown  Unknown
+libmpi.so.12       000014C977B2CF4B  MPIC_Waitall          Unknown  Unknown
+libmpi.so.12       000014C9779FA5ED  MPIR_Alltoall_int     Unknown  Unknown
+libmpi.so.12       000014C9779F9A9A  MPIR_Alltoall         Unknown  Unknown
+libmpi.so.12       000014C9779F9A38  MPIR_Alltoall_imp     Unknown  Unknown
+libmpi.so.12       000014C9779F929E  PMPI_Alltoall         Unknown  Unknown
+libmpifort.so.12.  000014C9780D46C6  mpi_alltoall__        Unknown  Unknown
+vasp_std           0000000000412DF7  Unknown               Unknown  Unknown
+vasp_std           000000000058423A  Unknown               Unknown  Unknown
+vasp_std           0000000000E84618  Unknown               Unknown  Unknown
+vasp_std           0000000000EF8360  Unknown               Unknown  Unknown
+vasp_std           000000000161C771  Unknown               Unknown  Unknown
+vasp_std           00000000015F6996  Unknown               Unknown  Unknown
+vasp_std           000000000040758E  Unknown               Unknown  Unknown
+libc-2.28.so       000014C976BE0493  __libc_start_main     Unknown  Unknown
+vasp_std           00000000004074A9  Unknown               Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014B5A44E3C20  Unknown               Unknown  Unknown
+libc-2.28.so       000014B5A3E6D6BB  __sched_yield         Unknown  Unknown
+libmpi.so.12.0     000014B5A4BF37F4  Unknown               Unknown  Unknown
+libmpi.so.12       000014B5A4BEDD6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       000014B5A4E87A00  MPIR_Waitall_impl     Unknown  Unknown
+libmpi.so.12       000014B5A4CF9F4B  MPIC_Waitall          Unknown  Unknown
+libmpi.so.12       000014B5A4BC75ED  MPIR_Alltoall_int     Unknown  Unknown
+libmpi.so.12       000014B5A4BC6A9A  MPIR_Alltoall         Unknown  Unknown
+libmpi.so.12       000014B5A4BC6A38  MPIR_Alltoall_imp     Unknown  Unknown
+libmpi.so.12       000014B5A4BC629E  PMPI_Alltoall         Unknown  Unknown
+libmpifort.so.12.  000014B5A52A16C6  mpi_alltoall__        Unknown  Unknown
+vasp_std           0000000000412DF7  Unknown               Unknown  Unknown
+vasp_std           0000000000585479  Unknown               Unknown  Unknown
+vasp_std           0000000000E84660  Unknown               Unknown  Unknown
+vasp_std           0000000000EF8360  Unknown               Unknown  Unknown
+vasp_std           000000000161C771  Unknown               Unknown  Unknown
+vasp_std           00000000015F6996  Unknown               Unknown  Unknown
+vasp_std           000000000040758E  Unknown               Unknown  Unknown
+libc-2.28.so       000014B5A3DAD493  __libc_start_main     Unknown  Unknown
+vasp_std           00000000004074A9  Unknown               Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001512685A0C20  Unknown               Unknown  Unknown
+libmpi.so.12.0     0000151268CB0271  Unknown               Unknown  Unknown
+libmpi.so.12       0000151268CAAD6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       0000151268F44A00  MPIR_Waitall_impl     Unknown  Unknown
+libmpi.so.12       0000151268DB6F4B  MPIC_Waitall          Unknown  Unknown
+libmpi.so.12       0000151268C845ED  MPIR_Alltoall_int     Unknown  Unknown
+libmpi.so.12       0000151268C83A9A  MPIR_Alltoall         Unknown  Unknown
+libmpi.so.12       0000151268C83A38  MPIR_Alltoall_imp     Unknown  Unknown
+libmpi.so.12       0000151268C8329E  PMPI_Alltoall         Unknown  Unknown
+libmpifort.so.12.  000015126935E6C6  mpi_alltoall__        Unknown  Unknown
+vasp_std           0000000000412DF7  Unknown               Unknown  Unknown
+vasp_std           000000000058423A  Unknown               Unknown  Unknown
+vasp_std           0000000000E84618  Unknown               Unknown  Unknown
+vasp_std           0000000000EF8360  Unknown               Unknown  Unknown
+vasp_std           000000000161C771  Unknown               Unknown  Unknown
+vasp_std           00000000015F6996  Unknown               Unknown  Unknown
+vasp_std           000000000040758E  Unknown               Unknown  Unknown
+libc-2.28.so       0000151267E6A493  __libc_start_main     Unknown  Unknown
+vasp_std           00000000004074A9  Unknown               Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014F20F561C20  Unknown               Unknown  Unknown
+libmpi.so.12.0     000014F20FC71271  Unknown               Unknown  Unknown
+libmpi.so.12       000014F20FC6BD6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       000014F20FF05A00  MPIR_Waitall_impl     Unknown  Unknown
+libmpi.so.12       000014F20FD77F4B  MPIC_Waitall          Unknown  Unknown
+libmpi.so.12       000014F20FC455ED  MPIR_Alltoall_int     Unknown  Unknown
+libmpi.so.12       000014F20FC44A9A  MPIR_Alltoall         Unknown  Unknown
+libmpi.so.12       000014F20FC44A38  MPIR_Alltoall_imp     Unknown  Unknown
+libmpi.so.12       000014F20FC4429E  PMPI_Alltoall         Unknown  Unknown
+libmpifort.so.12.  000014F21031F6C6  mpi_alltoall__        Unknown  Unknown
+vasp_std           0000000000412DF7  Unknown               Unknown  Unknown
+vasp_std           000000000058423A  Unknown               Unknown  Unknown
+vasp_std           0000000000E84618  Unknown               Unknown  Unknown
+vasp_std           0000000000EF8360  Unknown               Unknown  Unknown
+vasp_std           000000000161C771  Unknown               Unknown  Unknown
+vasp_std           00000000015F6996  Unknown               Unknown  Unknown
+vasp_std           000000000040758E  Unknown               Unknown  Unknown
+libc-2.28.so       000014F20EE2B493  __libc_start_main     Unknown  Unknown
+vasp_std           00000000004074A9  Unknown               Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000147E59EE9C20  Unknown               Unknown  Unknown
+libc-2.28.so       0000147E598736BB  __sched_yield         Unknown  Unknown
+libmpi.so.12.0     0000147E5A5F97F4  Unknown               Unknown  Unknown
+libmpi.so.12       0000147E5A5F3D6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       0000147E5A706339  MPIC_Wait             Unknown  Unknown
+libmpi.so.12       0000147E5A7060F8  MPIC_Sendrecv         Unknown  Unknown
+libmpi.so.12       0000147E5A5C7463  MPIR_Allreduce_in     Unknown  Unknown
+libmpi.so.12       0000147E5A5CBB5D  MPIR_Allreduce_im     Unknown  Unknown
+libmpi.so.12       0000147E5A5CB38E  PMPI_Allreduce        Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014CCE1C24C20  Unknown               Unknown  Unknown
+libmpi.so.12.0     000014CCE2334271  Unknown               Unknown  Unknown
+libmpi.so.12       000014CCE232ED6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       000014CCE25C8A00  MPIR_Waitall_impl     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014F8193A5C20  Unknown               Unknown  Unknown
+libmpi.so.12.0     000014F819AB558B  Unknown               Unknown  Unknown
+libmpi.so.12       000014F819AAFD6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+
+Stack trace terminated abnormally.

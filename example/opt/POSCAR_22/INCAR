@@ -1,0 +1,38 @@
+general:
+System = metal
+ISPIN=1
+
+ISTART=0
+ISIF=2
+IBRION=1
+POTIM=0.2
+NSW=5000
+
+ENCUT=450
+PREC=Normal
+ALGO=Fast
+EDIFFG=-0.05
+ISMEAR=1; SIGMA=0.2  #-5 for accurate total energy and DOS 0 for large cell 1 for metal
+LREAL=A
+LWAVE=F  
+VOSKOWN=0    # 0 for PBE 1 for PW91
+NELMIN=8
+#AMIX = 0.2
+#BMIX = 0.0001
+NSIM=4
+LCHARG=F
+ISYM=0 
+
+NPAR=4
+#next for biased MD
+#SMASS=0
+#TEBEG=300
+#TEEND=300
+#NFREE=10
+#MAXMIN=40
+#HILLS_BIN=5000
+#NCORE=8
+
+#MDALGO=21
+#LBLUEOUT=.True.
+#INCREM=0

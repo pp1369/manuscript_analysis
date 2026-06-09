@@ -1,0 +1,18 @@
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014A04D12AC20  Unknown               Unknown  Unknown
+vasp_std           000000000159C434  Unknown               Unknown  Unknown
+vasp_std           0000000001592C92  Unknown               Unknown  Unknown
+vasp_std           000000000159397A  Unknown               Unknown  Unknown
+vasp_std           0000000001593276  Unknown               Unknown  Unknown
+vasp_std           000000000063654B  Unknown               Unknown  Unknown
+vasp_std           000000000064E54B  Unknown               Unknown  Unknown
+vasp_std           0000000001611657  Unknown               Unknown  Unknown
+vasp_std           000000000040758E  Unknown               Unknown  Unknown
+libc-2.28.so       000014A04C9F4493  __libc_start_main     Unknown  Unknown
+vasp_std           00000000004074A9  Unknown               Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.

@@ -1,0 +1,40 @@
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015297F95CC20  Unknown               Unknown  Unknown
+libmkl_avx512.so   000015297723B4DC  mkl_blas_avx512_z     Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014C5F34D4C20  Unknown               Unknown  Unknown
+libmkl_avx512.so   000014C5EADB2D2C  mkl_blas_avx512_z     Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001550B2ADFC20  Unknown               Unknown  Unknown
+libmkl_avx512.so   00001550AA3D431C  mkl_blas_avx512_z     Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014D246BC4C20  Unknown               Unknown  Unknown
+libmkl_avx512.so   000014D23E4B9147  mkl_blas_avx512_z     Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001531C0012C20  Unknown               Unknown  Unknown
+libmkl_avx512.so   00001531B79072CA  mkl_blas_avx512_z     Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000148AE4E0EC20  Unknown               Unknown  Unknown
+libmkl_avx512.so   0000148ADC6ECBB6  mkl_blas_avx512_z     Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000146E09448C20  Unknown               Unknown  Unknown
+libmkl_avx512.so   0000146E00D3D1AB  mkl_blas_avx512_z     Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000151D27F34C20  Unknown               Unknown  Unknown
+libmkl_avx512.so   0000151D1F82916E  mkl_blas_avx512_z     Unknown  Unknown

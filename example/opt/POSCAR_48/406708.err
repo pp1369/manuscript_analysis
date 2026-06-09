@@ -1,0 +1,92 @@
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000146C6BEF7C20  Unknown               Unknown  Unknown
+libc-2.28.so       0000146C6B8816BB  __sched_yield         Unknown  Unknown
+libmpi.so.12.0     0000146C6C6077F4  Unknown               Unknown  Unknown
+libmpi.so.12       0000146C6C601D6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       0000146C6C89BA00  MPIR_Waitall_impl     Unknown  Unknown
+libmpi.so.12       0000146C6C70DF4B  MPIC_Waitall          Unknown  Unknown
+libmpi.so.12       0000146C6C5DE887  MPIR_Alltoallv_in     Unknown  Unknown
+libmpi.so.12       0000146C6C5DDE09  MPIR_Alltoallv        Unknown  Unknown
+libmpi.so.12       0000146C6C5DDD91  MPIR_Alltoallv_im     Unknown  Unknown
+libmpi.so.12       0000146C6C5DD0F2  MPI_Alltoallv         Unknown  Unknown
+libmpifort.so.12.  0000146C6CCB577A  pmpi_alltoallv__      Unknown  Unknown
+vasp_std           0000000000411F0E  Unknown               Unknown  Unknown
+vasp_std           000000000159C3BD  Unknown               Unknown  Unknown
+vasp_std           0000000001592C92  Unknown               Unknown  Unknown
+vasp_std           0000000001593EC5  Unknown               Unknown  Unknown
+vasp_std           00000000008D8711  Unknown               Unknown  Unknown
+vasp_std           0000000000EF8674  Unknown               Unknown  Unknown
+vasp_std           000000000161C771  Unknown               Unknown  Unknown
+vasp_std           00000000015F6996  Unknown               Unknown  Unknown
+vasp_std           000000000040758E  Unknown               Unknown  Unknown
+libc-2.28.so       0000146C6B7C1493  __libc_start_main     Unknown  Unknown
+vasp_std           00000000004074A9  Unknown               Unknown  Unknown
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000145FC3984C20  Unknown               Unknown  Unknown
+libmpi.so.12.0     0000145FC4094271  Unknown               Unknown  Unknown
+libmpi.so.12       0000145FC408ED6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       0000145FC4328A00  MPIR_Waitall_impl     Unknown  Unknown
+libmpi.so.12       0000145FC419AF4B  MPIC_Waitall          Unknown  Unknown
+libmpi.so.12       0000145FC406B887  MPIR_Alltoallv_in     Unknown  Unknown
+libmpi.so.12       0000145FC406AE09  MPIR_Alltoallv        Unknown  Unknown
+libmpi.so.12       0000145FC406AD91  MPIR_Alltoallv_im     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000147F4F76AC20  Unknown               Unknown  Unknown
+libc-2.28.so       0000147F4F0F46BB  __sched_yield         Unknown  Unknown
+libmpi.so.12.0     0000147F4FE7A7F4  Unknown               Unknown  Unknown
+libmpi.so.12       0000147F4FE74D6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       0000147F5010EA00  MPIR_Waitall_impl     Unknown  Unknown
+libmpi.so.12       0000147F4FF80F4B  MPIC_Waitall          Unknown  Unknown
+libmpi.so.12       0000147F4FE51887  MPIR_Alltoallv_in     Unknown  Unknown
+libmpi.so.12       0000147F4FE50E09  MPIR_Alltoallv        Unknown  Unknown
+libmpi.so.12       0000147F4FE50D91  MPIR_Alltoallv_im     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014B6ACCDDC20  Unknown               Unknown  Unknown
+libmpi.so.12.0     000014B6AD3ED58B  Unknown               Unknown  Unknown
+libmpi.so.12       000014B6AD3E7D6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       000014B6AD681A00  MPIR_Waitall_impl     Unknown  Unknown
+libmpi.so.12       000014B6AD4F3F4B  MPIC_Waitall          Unknown  Unknown
+libmpi.so.12       000014B6AD3C4887  MPIR_Alltoallv_in     Unknown  Unknown
+libmpi.so.12       000014B6AD3C3E09  MPIR_Alltoallv        Unknown  Unknown
+libmpi.so.12       000014B6AD3C3D91  MPIR_Alltoallv_im     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001520760FCC20  Unknown               Unknown  Unknown
+libc-2.28.so       0000152075A866BB  __sched_yield         Unknown  Unknown
+libmpi.so.12.0     000015207680C7F4  Unknown               Unknown  Unknown
+libmpi.so.12       0000152076806D6E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12       0000152076AA0A00  MPIR_Waitall_impl     Unknown  Unknown
+libmpi.so.12       0000152076912F4B  MPIC_Waitall          Unknown  Unknown
+libmpi.so.12       00001520767E3887  MPIR_Alltoallv_in     Unknown  Unknown
+libmpi.so.12       00001520767E2E09  MPIR_Alltoallv        Unknown  Unknown
+libmpi.so.12       00001520767E2D91  MPIR_Alltoallv_im     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+vasp_std           0000000001778ABE  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.

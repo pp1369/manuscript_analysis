@@ -1,0 +1,64 @@
+Intel(R) Parallel Studio XE 2019 Update 1 for Linux*
+Copyright (C) 2009-2018 Intel Corporation. All rights reserved.
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@node12>
+Subject: Job 403596: <co-hollow> in cluster <cluster1> Exited
+
+Job <co-hollow> was submitted from host <manage01> by user <phu> in cluster <cluster1> at Sat Sep 27 17:39:28 2025
+Job was executed on host(s) <8*node12>, in queue <long>, as user <phu> in cluster <cluster1> at Sat Sep 27 17:21:27 2025
+</data/home/phu/> was used as the home directory.
+</data/home/phu/pp/COO/1-1/quasi-ts/2-9-2/opt/POSCAR_2> was used as the working directory.
+Started at Sat Sep 27 17:21:27 2025
+Terminated at Sat Sep 27 17:32:18 2025
+Results reported at Sat Sep 27 17:32:18 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q long
+#BSUB -R "span[hosts=1]"
+#BSUB -n 8
+#BSUB -o %J.out
+#BSUB -e %J.err
+#BSUB -J co-hollow
+
+#export I_MPI_ADJUST_REDUCE=3
+#export MPIR_CVAR_COLL_ALIAS_CHECK=0
+
+ulimit -s unlimited
+source /data/home/phu/apps/Intel/2019/parallel_studio_xe_2019/psxevars.sh intel64
+source /data/home/phu/apps/Intel/2019/profile.d/mpi_intelmpi-5.0.2.044.sh intel64
+cd $LS_SUBCWD
+NP=`echo $LSB_HOSTS | wc -w`
+
+mpirun -n $NP /data/apps/vasp/vasp_std > print-out
+
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with signal termination: 14.
+
+Resource usage summary:
+
+    CPU time :                                   5129.40 sec.
+    Max Memory :                                 1546 MB
+    Average Memory :                             1459.56 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              14
+    Max Threads :                                15
+    Run time :                                   649 sec.
+    Turnaround time :                            0 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <403596.err> for stderr output of this job.
+
